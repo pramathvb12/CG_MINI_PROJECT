@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1687012948 source:d:\programs\cgv\visualiser\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1679894086 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1679894086 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1687176586 source:d:\programs\cgv\our_sorting_algo_visualiser\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1688444682 source:d:\engineering\6th semester\cgv\mini project\our_sorting_algo_visualiser\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
